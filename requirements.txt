@@ -1,0 +1,3 @@
+PyQt
+sys
+PyQt-tools
